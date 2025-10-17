@@ -1,3 +1,4 @@
+**Note: This is a fork of itlwm stripped for Intel AC Wireless 9461**
 # itlwm
 
 **An Intel Wi-Fi Adapter Kernel Extension for macOS, based on the OpenBSD Project.**
